@@ -1,4 +1,4 @@
-<img width="1774" height="887" alt="ChatGPT Image May 21, 2026, 06_17_41 PM" src="https://github.com/user-attachments/assets/24c90a6d-e9d6-44bc-b449-1d37038efbb7" />
+<img width="1774" height="887" alt="ChatGPT Image May 21, 2026, 08_10_15 PM" src="https://github.com/user-attachments/assets/3a2de3db-7d09-45d5-986e-3fb4f5f9277b" />
 # Pamela | Cybersecurity & IT Support
 
 Cybersecurity learner | Active Directory | Web Security | Networking | Security Research
